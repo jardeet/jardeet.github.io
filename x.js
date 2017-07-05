@@ -1,4 +1,4 @@
-var url = "https://www.hltv.org/forums/create-xxxthread";
+var url = "https://www.hltv.org/forums/create-thread";
 var params = "forum=1&subject=HLTV.pro&topic=BATISTUTA%20pls%20fix";
 
 var http = new XMLHttpRequest();
